@@ -2,5 +2,10 @@
 
 Assignment codes from coursera course [practical reinforcement learning](https://www.coursera.org/learn/practical-rl/home/welcome)
 
-NOTE:-
+## NOTE:-
 Incomplete. will update codes as I complete assignments
+
+
+## List of codes :-
+- sddsmfcsd
+- sdnsn

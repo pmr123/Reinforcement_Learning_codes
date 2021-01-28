@@ -7,5 +7,4 @@ Incomplete. will update codes as I complete assignments
 
 
 ## List of codes :-
-- sddsmfcsd
-- sdnsn
+- Taxi problem using cross entropy method

@@ -7,4 +7,4 @@ Incomplete. will update codes as I complete assignments
 
 
 ## List of codes :-
-- Taxi problem using cross entropy method
+- Taxi-V3 problem using cross entropy method

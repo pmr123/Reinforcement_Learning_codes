@@ -7,4 +7,5 @@ Incomplete. will update codes as I complete assignments
 
 
 ## List of codes :-
-- Taxi-V3 problem using cross entropy method
+- crossentropy_method =  Taxi-V3 problem using crossentropy method
+- practice_vi = value iteration process using demo MDP and frozen lake problem

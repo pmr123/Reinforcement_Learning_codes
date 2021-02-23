@@ -1,6 +1,7 @@
 # Practical_Reinforcement_Learning_assignment_codes
 
-Assignment codes from coursera course [practical reinforcement learning](https://www.coursera.org/learn/practical-rl/home/welcome)
+Assignment codes from coursera course [practical reinforcement learning](https://www.coursera.org/learn/practical-rl/home/welcome).
+
 All codes are in python 3 and employ gym to produce environment
 
 ## NOTE:-

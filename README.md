@@ -1,12 +1,6 @@
-# Practical_Reinforcement_Learning_assignment_codes
-
-Assignment codes from coursera course [practical reinforcement learning](https://www.coursera.org/learn/practical-rl/home/welcome).
+# Practical_Reinforcement_Learning_codes
 
 All codes are in python 3 and employ gym to produce environment
-
-## NOTE:-
-Incomplete. will update codes as I complete assignments
-
 
 ## List of codes :-
 - [crossentropy_method](https://github.com/pmr123/Practical_Reinforcement_Learning_assignment_codes/blob/main/crossentropy_method.ipynb) =  Taxi-V3 problem using crossentropy method

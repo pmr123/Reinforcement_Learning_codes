@@ -1,4 +1,4 @@
-# Practical_Reinforcement_Learning_codes
+# Reinforcement_Learning_codes
 
 All codes are in python 3 and employ gym to produce environment
 
